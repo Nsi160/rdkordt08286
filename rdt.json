@@ -1,17 +1,8 @@
 {
-   "rdt_ver": "1.1.7",
+   "rdt_ver": "1.2.5",
    "data": [
       {
         "uuid": "7f42c329-738b-42f7-b268-4e04e805f8a6"
-      },
-      {
-        "uuid": "1be5dea9-a2c2-4eaf-ac77-39f8fac0d206"
-      },
-      {
-        "uuid": "32ca2530-20ec-4a12-bd9b-5491e8cd05f8"
-      },
-      {
-        "uuid": "2f5570ab-767a-466f-91a3-389b12127806"
       }
     ],
     "banned": [
