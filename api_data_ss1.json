@@ -12,8 +12,8 @@
         "moonset": "02:03"
     },
     "observation": {
-        "LNAME": "テスト",
-        "LNAMESub": "テスト",
+        "LNAME": "瀬野",
+        "LNAMESub": "サブ",
         "ISSUE": "2023-05-31T10:20 UTC",
         "WX": 100,
         "AIRTMP": 19,
