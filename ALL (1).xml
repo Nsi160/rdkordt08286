@@ -977,7 +977,7 @@ X：#ハピパン をつけて投稿&lt;br&gt;
 			<progs>
 				<date>20240510</date>
 				
-					<prog id="9899346" master_id="" ft="20240510073000" to="20240510100000" ftl="0730" tol="1000" dur="9000">
+					<prog id="9899346" master_id="" ft="20240510073000" to="20240510100000" ftl="1100" tol="1110" dur="9000">
 						<title>Flying Friday</title>
 						<url>http://www.berry.co.jp/flyingfriday/</url>
 						<url_link></url_link>
@@ -995,7 +995,7 @@ X：#ハピパン をつけて投稿&lt;br&gt;
 						</metas>
 					</prog>
 				
-					<prog id="9899347" master_id="" ft="20240510100000" to="20240510110000" ftl="1000" tol="1100" dur="3600">
+					<prog id="9899347" master_id="" ft="20240510100000" to="20240510110000" ftl="1110" tol="1140" dur="3600">
 						<title>Flying Friday</title>
 						<url>http://www.berry.co.jp/flyingfriday/</url>
 						<url_link></url_link>
@@ -3980,7 +3980,7 @@ twitterアカウントは　「@shower_music」</info>
 			<progs>
 				<date>20240510</date>
 				
-					<prog id="9900459" master_id="" ft="20240510090000" to="20240510110000" ftl="0900" tol="1100" dur="7200">
+					<prog id="9900459" master_id="" ft="20240510090000" to="20240510110000" ftl="0950" tol="1000" dur="7200">
 						<title>FMY DayColors</title>
 						<url>https://www.fmy.co.jp/prg/colors-top/</url>
 						<url_link></url_link>
@@ -3998,7 +3998,7 @@ twitterアカウントは　「@shower_music」</info>
 						</metas>
 					</prog>
 				
-					<prog id="9900460" master_id="" ft="20240510110000" to="20240510113000" ftl="1100" tol="1130" dur="1800">
+					<prog id="9900460" master_id="" ft="20240510110000" to="20240510113000" ftl="1000" tol="1130" dur="1800">
 						<title>Yuming Chord</title>
 						<url>https://www.tfm.co.jp/yuming/</url>
 						<url_link></url_link>
@@ -4028,7 +4028,7 @@ twitterアカウントは　「@shower_music」</info>
 			<progs>
 				<date>20240510</date>
 				
-					<prog id="9910598" master_id="" ft="20240510090000" to="20240510114800" ftl="0900" tol="1148" dur="10080">
+					<prog id="9910598" master_id="" ft="20240510090000" to="20240510114800" ftl="1050" tol="1148" dur="10080">
 						<title>Awesome!(9:00～11:48)</title>
 						<url>http://fmftp.lekumo.biz/awesome/</url>
 						<url_link></url_link>
