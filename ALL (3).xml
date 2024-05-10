@@ -12,7 +12,7 @@
 			<progs>
 				<date>20240510</date>
 				
-					<prog id="9906294" master_id="" ft="20240510210000" to="20240510220000" ftl="2000" tol="2100" dur="3600">
+					<prog id="9906294" master_id="" ft="20240510210000" to="20240510220000" ftl="2200" tol="2300" dur="3600">
 						<title>ＡＢＣフレッシュアップベースボール(3)</title>
 						<url>https://abcradio.asahi.co.jp/baseball/</url>
 						<url_link></url_link>
@@ -30,7 +30,7 @@
 						</metas>
 					</prog>
 				
-					<prog id="9906295" master_id="" ft="20240510220000" to="20240510220500" ftl="2100" tol="2105" dur="300">
+					<prog id="9906295" master_id="" ft="20240510220000" to="20240510220500" ftl="2300" tol="2305" dur="300">
 						<title>ＡＢＣニュース＆天気予報</title>
 						<url>https://www.abc1008.com/</url>
 						<url_link></url_link>
