@@ -1,11 +1,167 @@
 {
   "broadcast": [
+
     {
-        "name": "ＮＨＫ総合１",
+        "name": "ＨＢＣ",
         "image": ""
     },
     {
-        "name": "ＮＨＫＥテレ１",
+        "name": "札幌テレビ１",
+        "image": ""
+    },
+    {
+        "name": "ＨＴＢ１",
+        "image": ""
+    },
+    {
+        "name": "ＴＶｈ１",
+        "image": ""
+    },
+    {
+        "name": "北海道文化放送１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "福島中央テレビ１",
+        "image": ""
+    },
+    {
+        "name": "ＫＦＢ福島放送１",
+        "image": ""
+    },
+    {
+        "name": "テレビユー福島",
+        "image": ""
+    },
+    {
+        "name": "ＦＴＶ福島テレビ１",
+        "image": ""
+    },
+
+
+    {
+        "name": "ｔｖｋ１",
+        "image": ""
+    },
+    {
+        "name": "テレ玉１",
+        "image": ""
+    },
+    {
+        "name": "チバテレ１",
+        "image": ""
+    },
+    {
+        "name": "とちぎテレビ１",
+        "image": ""
+    },
+    {
+        "name": "群馬テレビ",
+        "image": ""
+    },
+
+    {
+        "name": "日テレ１",
+        "image": ""
+    },
+    {
+        "name": "テレビ朝日",
+        "image": ""
+    },
+    {
+        "name": "ＴＢＳ１",
+        "image": ""
+    },
+    {
+        "name": "テレ東",
+        "image": ""
+    },
+    {
+        "name": "フジテレビ",
+        "image": ""
+    },
+    {
+        "name": "ＴＯＫＹＯ　ＭＸ",
+        "image": ""
+    },
+
+
+
+
+    {
+        "name": "ＴｅＮＹ１",
+        "image": ""
+    },
+    {
+        "name": "新潟テレビ２１＿１",
+        "image": ""
+    },
+    {
+        "name": "ＢＳＮ１",
+        "image": ""
+    },
+    {
+        "name": "ＮＳＴ１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "テレビ金沢１",
+        "image": ""
+    },
+    {
+        "name": "ＨＡＢ１",
+        "image": ""
+    },
+    {
+        "name": "ＭＲＯ１",
+        "image": ""
+    },
+    {
+        "name": "石川テレビ１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "テレビ信州１",
+        "image": ""
+    },
+    {
+        "name": "長野朝日放送",
+        "image": ""
+    },
+    {
+        "name": "ＳＢＣ信越放送１",
+        "image": ""
+    },
+    {
+        "name": "長野放送",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "Daiichi-TV1",
+        "image": ""
+    },
+    {
+        "name": "静岡朝日テレビ",
+        "image": ""
+    },
+    {
+        "name": "ＳＢＳ１",
+        "image": ""
+    },
+    {
+        "name": "テレビ静岡",
         "image": ""
     },
 
@@ -17,15 +173,15 @@
     },
     {
         "name": "中京テレビ１",
-        "image": ""
+        "image": "https://i.gyazo.com/34cba6c1339cfe139e741c9205220e11.png"
     },
     {
         "name": "ＣＢＣテレビ",
-        "image": ""
+        "image": "https://i.gyazo.com/f5b9d56aaa06fc2cc67fcab056da0293.png"
     },
     {
         "name": "メ～テレ",
-        "image": ""
+        "image": "https://i.gyazo.com/22a149fc8387dbbbe23297601c4cd585.png"
     },
     {
       "name": "三重テレビ１",
@@ -55,6 +211,10 @@
         "image": "https://i.gyazo.com/07edf467e80d339d6b8e74f6a8ab5276.png"
     },
     {
+        "name": "ＷＴＶ１",
+        "image": ""
+    },
+    {
         "name": "ＡＢＣテレビ１",
         "image": "https://i.gyazo.com/5ee2848a9ffaf8ace72819a45008a28c.png"
     },
@@ -76,10 +236,91 @@
     },
 
 
-
+    
     {
         "name": "四国放送１",
-        "image": "https://gyazo.com/483f63e74a48e042fa06930c1df787ad"
+        "image": "https://i.gyazo.com/483f63e74a48e042fa06930c1df787ad.png"
+    },
+
+
+    {
+        "name": "ＲＣＣテレビ１",
+        "image": ""
+    },
+    {
+        "name": "広島テレビ１",
+        "image": ""
+    },
+    {
+        "name": "広島ホームテレビ１",
+        "image": ""
+    },
+    {
+        "name": "テレビ新広島１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "ＫＢＣテレビ",
+        "image": ""
+    },
+    {
+        "name": "ＲＫＢ毎日放送",
+        "image": ""
+    },
+    {
+        "name": "ＦＢＳ福岡放送１",
+        "image": ""
+    },
+    {
+        "name": "ＴＶＱ九州放送１",
+        "image": ""
+    },
+    {
+        "name": "テレビ西日本１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "ＳＴＳサガテレビ１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "ＯＢＳ大分放送",
+        "image": ""
+    },
+    {
+        "name": "ＴＯＳテレビ大分１",
+        "image": ""
+    },
+    {
+        "name": "ＯＡＢ大分朝日放送１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "ＲＢＣテレビ",
+        "image": ""
+    },
+    {
+        "name": "琉球朝日放送",
+        "image": ""
+    },
+    {
+        "name": "ＯＴＶ沖縄テレビ",
+        "image": ""
     }
+
+
+
   ]
 }
