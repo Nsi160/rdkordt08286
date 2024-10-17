@@ -1,0 +1,78 @@
+{
+  "broadcast": [
+    {
+        "name": "ＮＨＫ総合１",
+        "image": ""
+    },
+    {
+        "name": "ＮＨＫＥテレ１",
+        "image": ""
+    },
+
+
+
+    {
+        "name": "東海テレビ０１１",
+        "image": "https://i.gyazo.com/4f6063efc2257fd0bd6af700b03bbd3c.png"
+    },
+    {
+        "name": "中京テレビ１",
+        "image": ""
+    },
+    {
+        "name": "ＣＢＣテレビ",
+        "image": ""
+    },
+    {
+        "name": "メ～テレ",
+        "image": ""
+    },
+    {
+      "name": "三重テレビ１",
+      "image": "https://i.gyazo.com/fe88f09ca8355d36cded57b54318a6b5.png"
+    },
+    {
+        "name": "ぎふチャン",
+        "image": "https://i.gyazo.com/7c0c1739897bfb0b6ff3c921911ac4b8.png"
+    },
+    {
+        "name": "テレビ愛知１",
+        "image": "https://i.gyazo.com/e178fbab54a8ba6cb6993e3dd08184c2.png"
+    },
+
+
+
+    {
+        "name": "サンテレビ１",
+        "image": "https://i.gyazo.com/6c2c57c935f4fd6e341cfba8a7663f4f.png"
+    },
+    {
+        "name": "ＭＢＳ毎日放送",
+        "image": "https://i.gyazo.com/ebfc0518275edb2d7e17dee3fdd30206.png"
+    },
+    {
+        "name": "ＫＢＳ京都",
+        "image": "https://i.gyazo.com/07edf467e80d339d6b8e74f6a8ab5276.png"
+    },
+    {
+        "name": "ＡＢＣテレビ１",
+        "image": "https://i.gyazo.com/5ee2848a9ffaf8ace72819a45008a28c.png"
+    },
+    {
+        "name": "テレビ大阪１",
+        "image": "https://i.gyazo.com/7b3ee761b8353ea6ccbfe8fd14e05acf.png"
+    },
+    {
+        "name": "関西テレビ１",
+        "image": "https://i.gyazo.com/d1986032e251a675297587c6c169b15b.png"
+    },
+    {
+        "name": "奈良テレビ１",
+        "image": "https://i.gyazo.com/2f303ef8558fbf4de59006a335f047e6.png"
+    },
+    {
+        "name": "読売テレビ１",
+        "image": "https://i.gyazo.com/f105c404ea1615431be4c911fad65ba2.png"
+    }
+  ]
+}
